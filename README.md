@@ -143,7 +143,5 @@ All models were implemented as `sklearn` pipelines with a `SimpleImputer` and (w
 **Run notebooks in order: 1 → 2 → 3.**
 
 ---
-
-## Contact
-
-Questions about this project? Reach out via LinkedIn or email.
+**GitHub Repository:** 
+(https://github.com/alexiarydfors-arch/Alexia-Rydfors-Capstone-Project)
