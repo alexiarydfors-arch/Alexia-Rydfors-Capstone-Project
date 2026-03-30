@@ -1,6 +1,6 @@
 # Does Money Win Elections? Predicting Congressional Election Outcomes from Campaign Finance Data
 
-**Alexia [Last Name]**
+**Alexia Rydfors**
 
 ---
 
@@ -142,8 +142,4 @@ All models were implemented as `sklearn` pipelines with a `SimpleImputer` and (w
 
 **Run notebooks in order: 1 → 2 → 3.**
 
----
 
-## Contact
-
-Questions about this project? Reach out via LinkedIn or email.
